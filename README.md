@@ -1,4 +1,4 @@
-# 📚 Data Understanding & Analysis Practice Library
+# 📚 Data Understanding & Analysis Practice 
 
 This repository is a **hands-on data analysis practice library** focused on building strong fundamentals in **NumPy and Pandas** and **actively applying those concepts in data understanding, analysis, and visualization tasks**.
 
@@ -123,6 +123,6 @@ It reflects ongoing skill development rather than a finalized production project
 ---
 ## Author
 **Abbu Talib Ansari**<br>
-GitHub:https://github.com//talibansari1914//Data_Understanding & Analysis
+GitHub:https://github.com//talibansari1914//Data_Understanding-Analysis
 
 ⭐ This repository documents continuous learning and practical application of data analysis concepts using NumPy and Pandas.
